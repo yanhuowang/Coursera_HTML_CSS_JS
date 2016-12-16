@@ -1,0 +1,33 @@
+* {
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+.navbar-default .navbar-brand {
+  color: #000000;
+}
+
+header{
+  margin-top: 42px;
+}
+
+#header-nav {
+  background-color: #5DADE2;
+  border-radius: 0;
+  border-bottom: solid 1px #000000;
+}
+
+.navbar-nav {
+  background: blue;
+}
+
+#row_chicken {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#chicken {
+  background-color: #B2BABB;
+}
+
