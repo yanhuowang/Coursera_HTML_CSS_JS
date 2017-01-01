@@ -11,3 +11,6 @@ https://yanhuowang.github.io/Coursera_HTML_CSS_JS/responsiveDesign/index.html
 https://yanhuowang.github.io/Coursera_HTML_CSS_JS/responsiveDesignBootstrap/index.html
 
 ## 3. Hello & GoodBye
+Loop over an array of names and print out either a hello or goodbye to that name to the browser console. If the name starts with a letter j or J, print out Goodbye JSomeName. If the name starts with any other letter, print out Hello SomeName.
+
+Practice of using Immediately Invoked Function Expressions(IIFEs).
