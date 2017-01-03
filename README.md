@@ -20,5 +20,5 @@ https://yanhuowang.github.io/Coursera_HTML_CSS_JS/helloGoodbye/index.html
 The front page of our web app contains 3 clickable tiles: Menu, Specials, and Map. 
 When the user clicks on the Specials tile, the web app takes the user to the Specials menu, but to a random single category menu page, listing menu items in the category, be it "Lunch", "Dinner", "Sushi", etc. That way, any random category can become the Specials! 
 
-Practice of ajax
+Practice of ajax.
 https://yanhuowang.github.io/Coursera_HTML_CSS_JS/randomSpecials/index.html
